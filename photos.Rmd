@@ -1,12 +1,13 @@
 ---
 title: "photos"
 author: "Andrew Romasco"
-date: "11/18/2020"
 output:
   prettydoc::html_pretty:
     theme: tactile
     highlight: github
 ---
+
+I'll try to upload the promised ropes course photos soon!
 
 ![](images/Headshot face-on (2).png)
 
